@@ -65,7 +65,7 @@ Accountant turned AI Automation Engineer and Data Scientist. B.Sc. in Accounting
 
 | Project | Domain | Stack | Live Demo |
 | :-- | :-- | :-- | :-- |
-| [Credit Risk Scoring System](https://github.com/undisputedmyron/credit-risk-scoring-system) | Finance ML | XGBoost · SHAP · Streamlit · Docker | [Demo](https://credit-risk-scoring-system.streamlit.app) |
+| [Credit Risk Scoring System](https://github.com/undisputedmyron/credit-risk-scoring-system) | Finance ML | XGBoost · SHAP · Streamlit · Docker | [Demo](https://credit-risk-scoring-olusegun.streamlit.app) |
 | _Project name_ | Healthcare | Python · XGBoost · SHAP · Streamlit | [Demo](#) |
 | _Project name_ | Automation | n8n · OpenAI API · LangChain | [Demo](#) |
 | _Project name_ | Business Intelligence | SQL · PostgreSQL · Power BI | [Demo](#) |
